@@ -16,7 +16,7 @@ public class CrawlSearchResults {
     public static void main(String[] args) {
 
         CrawlSearchResults crawler = new CrawlSearchResults();
-        crawler.getDataFromGoogle("Have a good day");
+        crawler.getDataFromGoogle("Enter your search Query Here");
     }
 
 
